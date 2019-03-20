@@ -1,7 +1,7 @@
 // carousel timer
-// $('.carousel').carousel({
-//   interval: 4000
-// });
+$('.carousel').carousel({
+  interval: 4000
+});
 
 //rainbow footer
 $(".rainBowBox input").keydown(function () {
